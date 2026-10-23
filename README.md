@@ -190,8 +190,8 @@ MLP-IRIS-MODEL/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/MLP-Iris-Model-From-Scratch.git
-cd MLP-Iris-Model-From-Scratch
+git clone https://github.com/ved-hubmax/MLP-IRIS-MODEL.git
+cd MLP-IRIS-MODEL
 ```
 
 ### 2. Set Up Virtual Environment & Install Dependencies
@@ -234,7 +234,7 @@ jupyter notebook code_base/MLP_Iris_From_Scratch.ipynb
 >
 > 📊 Included full diagnostics: EDA dashboards, pairplots, convergence curves, confusion matrices, and 2D PCA decision boundary visualizations.
 >
-> 🔗 **GitHub Repository**: [Insert your GitHub repo link here]
+> 🔗 **GitHub Repository**: https://github.com/ved-hubmax/MLP-IRIS-MODEL
 >
 > #MachineLearning #DeepLearning #Python #NumPy #DataScience #ArtificialIntelligence #Mathematics #FromScratch #PortfolioProject
 
